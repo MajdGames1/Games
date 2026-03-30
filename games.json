@@ -5,18 +5,20 @@
         "company": "Capcom",
         "year": 1996,
         "genre": "Survival Horror",
+        "version": "1.00",
+        "fileType": "PKG",
         "description": "Set in 1998, members of the Special Tactics and Rescue Service (S.T.A.R.S.) are sent to investigate mysterious murders on the outskirts of Raccoon City. After being attacked, team members *Chris Redfield & Jill Valentine* take refuge in a nearby abandoned mansion, which is filled with zombies, mutant creatures, and complex puzzles.",
         "fileSize": "319 MB",
         "storeImage": "https://z-cdn-media.chatglm.cn/files/8c04fc6f-b112-4fa2-9c4e-bcf9ef9e85a5.png?auth_key=1874476395-3986a61c829f4393a02e0a623d244235-0-d6e4e8acb37df30d45e1de83272a8eca",
         "detailImage": "https://www.saudigamer.com/tachyon/sites/6/2024/08/Spencerblog-1480954824797.jpg",
-        "downloadLink": "https://example.com/download/re1"
+        "downloadLink": "https://example.com/download/re1",
         "screenshots": [
-          "https://example.com/ss1.jpg",
-          "https://example.com/ss2.jpg",
-          "https://example.com/ss3.jpg"
+            "https://example.com/ss1.jpg",
+            "https://example.com/ss2.jpg",
+            "https://example.com/ss3.jpg"
         ],
         "trailers": [
-          "https://example.com/trailer.mp4"
+            "https://example.com/trailer.mp4"
         ]
     }
 ]
