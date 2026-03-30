@@ -16,6 +16,7 @@
           "https://example.com/ss3.jpg"
         ],
         "trailers": [
-         "https://example.com/trailer.mp4"
+          "https://example.com/trailer.mp4"
+        ],
      }
 ]
